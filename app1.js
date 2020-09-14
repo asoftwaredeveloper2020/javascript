@@ -17,4 +17,5 @@ for (i=0;i<rating.length;i++) {
             }
 }
 }
+console.log('20200914');
 console.log(count);
